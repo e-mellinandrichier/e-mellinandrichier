@@ -1,4 +1,3 @@
-![Banner](https://res.cloudinary.com/dshfyajcz/image/upload/v1732525902/Emmanuelle_Mellinand-Richier_rkmsf5.png)
 
 # Hi there ! 👋
 
