@@ -22,9 +22,3 @@ I had the amazing opportunity to do the 42's Piscine in Lyon, which has given me
 * Cyberclosette\
   Inspired by the film Clueless, I've always been in awe in front of Cher's virtual closet. We've decided to recreate it for our final project at Le Wagon. [Check out our presentation !](https://www.youtube.com/watch?v=3SNrAxARnX0) 
   
-## My stats
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=e-mellinandrichier&theme=default&hide_border=true)
-![stats](https://github-readme-stats.vercel.app/api?username=e-mellinandrichier&theme=default&show_icons=true&hide_border=true&count_private=true)
-![langages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-mellinandrichier&theme=default&show_icons=true&hide_border=true&layout=compact)
-  
